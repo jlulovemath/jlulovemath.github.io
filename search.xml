@@ -45,7 +45,8 @@
     <title>摸鱼警告</title>
     <url>/2022/06/07/warning/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
-<h1 id="请优先阅读如下摸鱼指南"><a href="#请优先阅读如下摸鱼指南" class="headerlink" title="请优先阅读如下摸鱼指南"></a>请优先阅读如下摸鱼指南</h1></blockquote>
+<p>请优先阅读如下摸鱼指南</p>
+</blockquote>
 <table>
 <thead>
 <tr>
@@ -59,7 +60,8 @@
 </tr>
 </tbody></table>
 <blockquote>
-<h1 id="网站目录"><a href="#网站目录" class="headerlink" title="网站目录"></a>网站目录</h1></blockquote>
+<p>网站目录</p>
+</blockquote>
 <h2 id="分析与微分方程"><a href="#分析与微分方程" class="headerlink" title="分析与微分方程"></a>分析与微分方程</h2><table>
 <thead>
 <tr>
@@ -69,35 +71,35 @@
 </thead>
 <tbody><tr>
 <td align="center">数学分析</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/04/10/analysis/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/04/10/analysis/">点此跳转</a></td>
 </tr>
 <tr>
 <td align="center">复变函数</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/04/07/Complex%20Analysis/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/04/07/Complex%20Analysis/">点此跳转</a></td>
 </tr>
 <tr>
 <td align="center">实变函数</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/05/10/real/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/05/10/real/">点此跳转</a></td>
 </tr>
 <tr>
 <td align="center">泛函分析</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/06/05/functional/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/06/05/functional/">点此跳转</a></td>
 </tr>
 <tr>
 <td align="center">Fourier分析</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/06/05/Fourier/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/06/05/Fourier/">点此跳转</a></td>
 </tr>
 <tr>
 <td align="center">调和分析</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/06/05/harmonic/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/06/05/harmonic/">点此跳转</a></td>
 </tr>
 <tr>
 <td align="center">常微分方程</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/04/08/ode/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/04/08/ode/">点此跳转</a></td>
 </tr>
 <tr>
 <td align="center">数学物理方程</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/05/12/pde/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/05/12/pde/">点此跳转</a></td>
 </tr>
 </tbody></table>
 <h2 id="代数与数论"><a href="#代数与数论" class="headerlink" title="代数与数论"></a>代数与数论</h2><table>
@@ -109,19 +111,19 @@
 </thead>
 <tbody><tr>
 <td align="center">高等代数</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/04/09/linear/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/04/09/linear/">点此跳转</a></td>
 </tr>
 <tr>
 <td align="center">抽象代数</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/04/03/abstract/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/04/03/abstract/">点此跳转</a></td>
 </tr>
 <tr>
 <td align="center">代数学进阶</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/04/04/algebra/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/04/04/algebra/">点此跳转</a></td>
 </tr>
 <tr>
 <td align="center">数论</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/06/05/number/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/06/05/number/">点此跳转</a></td>
 </tr>
 </tbody></table>
 <h2 id="几何与拓扑"><a href="#几何与拓扑" class="headerlink" title="几何与拓扑"></a>几何与拓扑</h2><table>
@@ -133,15 +135,15 @@
 </thead>
 <tbody><tr>
 <td align="center">空间解析几何</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/05/04/kongjie/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/05/04/kongjie/">点此跳转</a></td>
 </tr>
 <tr>
 <td align="center">拓扑学</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/04/05/topology/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/04/05/topology/">点此跳转</a></td>
 </tr>
 <tr>
 <td align="center">微分几何</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/06/05/differential/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/06/05/differential/">点此跳转</a></td>
 </tr>
 </tbody></table>
 <h2 id="计算数学"><a href="#计算数学" class="headerlink" title="计算数学"></a>计算数学</h2><table>
@@ -153,7 +155,7 @@
 </thead>
 <tbody><tr>
 <td align="center">数值分析</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/05/02/computing/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/05/02/computing/">点此跳转</a></td>
 </tr>
 </tbody></table>
 <h2 id="概率论与统计学"><a href="#概率论与统计学" class="headerlink" title="概率论与统计学"></a>概率论与统计学</h2><table>
@@ -165,7 +167,7 @@
 </thead>
 <tbody><tr>
 <td align="center">概率论与数理统计</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/04/06/probability/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/04/06/probability/">点此跳转</a></td>
 </tr>
 </tbody></table>
 <h2 id="编程"><a href="#编程" class="headerlink" title="编程"></a>编程</h2><table>
@@ -176,8 +178,12 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center">Python</td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/05/01/Python/">点此跳转</a></td>
+</tr>
+<tr>
 <td align="center">LaTeX</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/04/03/LaTeX/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/04/03/LaTeX/">点此跳转</a></td>
 </tr>
 </tbody></table>
 <h2 id="人工智能"><a href="#人工智能" class="headerlink" title="人工智能"></a>人工智能</h2><table>
@@ -189,11 +195,11 @@
 </thead>
 <tbody><tr>
 <td align="center">人工智能</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/05/01/AI/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/05/01/AI/">点此跳转</a></td>
 </tr>
 <tr>
 <td align="center">华为AI教材</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/05/01/huawei/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/05/01/huawei/">点此跳转</a></td>
 </tr>
 </tbody></table>
 <h2 id="物理"><a href="#物理" class="headerlink" title="物理"></a>物理</h2><table>
@@ -205,7 +211,7 @@
 </thead>
 <tbody><tr>
 <td align="center">普通物理学</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/02/04/physics/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/02/04/physics/">点此跳转</a></td>
 </tr>
 </tbody></table>
 <h2 id="考试相关"><a href="#考试相关" class="headerlink" title="考试相关"></a>考试相关</h2><table>
@@ -217,7 +223,7 @@
 </thead>
 <tbody><tr>
 <td align="center">期末考试往年题</td>
-<td align="center"><a href="https://www.wangtuo.co/2022/04/30/Exam/">点此跳转</a></td>
+<td align="center"><a href="https://wangtuolibrary.github.io/2022/04/30/Exam/">点此跳转</a></td>
 </tr>
 </tbody></table>
 ]]></content>
@@ -728,6 +734,30 @@
 <tbody><tr>
 <td align="center">深度强化学习</td>
 <td align="center"><a href="http://wangtuo.co/AI/%E6%B7%B1%E5%BA%A6%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.pdf">点此下载</a></td>
+</tr>
+</tbody></table>
+]]></content>
+  </entry>
+  <entry>
+    <title>Python</title>
+    <url>/2022/05/01/Python/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<p>Python基础</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="center">推荐资源</th>
+<th align="center">获取</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">尚硅谷Python基础教程</td>
+<td align="center"><a href="https://www.bilibili.com/video/BV1hW41197sB?spm_id_from=333.337.search-card.all.click">点此跳转</a></td>
+</tr>
+<tr>
+<td align="center">尚硅谷Python基础教程配套资源</td>
+<td align="center"><a href="http://wangtuo.co/python/01-%E4%BB%A3%E7%A0%81-%E7%AC%94%E8%AE%B0.zip">点此下载</a></td>
 </tr>
 </tbody></table>
 ]]></content>
@@ -1445,6 +1475,51 @@
 ]]></content>
   </entry>
   <entry>
+    <title>LaTeX</title>
+    <url>/2022/04/03/LaTeX/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><table>
+<thead>
+<tr>
+<th align="center">电子书</th>
+<th align="center">下载</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">一份不太简短的介绍</td>
+<td align="center"><a href="http://wangtuo.co/LaTeX/lshort-zh-cn.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="6.465ex" height="2.676ex" style="vertical-align: -0.838ex;" viewbox="0 -791.3 2783.7 1152.1" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">\LaTeX</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJMATHI-4C" d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 217 683Q271 680 344 680Q485 680 506 683H518Q524 677 524 674T522 656Q517 641 513 637H475Q406 636 394 628Q387 624 380 600T313 336Q297 271 279 198T252 88L243 52Q243 48 252 48T311 46H328Q360 46 379 47T428 54T478 72T522 106T564 161Q580 191 594 228T611 270Q616 273 628 273H641Q647 264 647 262T627 203T583 83T557 9Q555 4 553 3T537 0T494 -1Q483 -1 418 -1T294 0H116Q32 0 32 10Q32 17 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"/>
+<path stroke-width="1" id="E1-MJMATHI-41" d="M208 74Q208 50 254 46Q272 46 272 35Q272 34 270 22Q267 8 264 4T251 0Q249 0 239 0T205 1T141 2Q70 2 50 0H42Q35 7 35 11Q37 38 48 46H62Q132 49 164 96Q170 102 345 401T523 704Q530 716 547 716H555H572Q578 707 578 706L606 383Q634 60 636 57Q641 46 701 46Q726 46 726 36Q726 34 723 22Q720 7 718 4T704 0Q701 0 690 0T651 1T578 2Q484 2 455 0H443Q437 6 437 9T439 27Q443 40 445 43L449 46H469Q523 49 533 63L521 213H283L249 155Q208 86 208 74ZM516 260Q516 271 504 416T490 562L463 519Q447 492 400 412L310 260L413 259Q516 259 516 260Z"/>
+<path stroke-width="1" id="E1-MJMATHI-54" d="M40 437Q21 437 21 445Q21 450 37 501T71 602L88 651Q93 669 101 677H569H659Q691 677 697 676T704 667Q704 661 687 553T668 444Q668 437 649 437Q640 437 637 437T631 442L629 445Q629 451 635 490T641 551Q641 586 628 604T573 629Q568 630 515 631Q469 631 457 630T439 622Q438 621 368 343T298 60Q298 48 386 46Q418 46 427 45T436 36Q436 31 433 22Q429 4 424 1L422 0Q419 0 415 0Q410 0 363 1T228 2Q99 2 64 0H49Q43 6 43 9T45 27Q49 40 55 46H83H94Q174 46 189 55Q190 56 191 56Q196 59 201 76T241 233Q258 301 269 344Q339 619 339 625Q339 630 310 630H279Q212 630 191 624Q146 614 121 583T67 467Q60 445 57 441T43 437H40Z"/>
+<path stroke-width="1" id="E1-MJMATHI-45" d="M492 213Q472 213 472 226Q472 230 477 250T482 285Q482 316 461 323T364 330H312Q311 328 277 192T243 52Q243 48 254 48T334 46Q428 46 458 48T518 61Q567 77 599 117T670 248Q680 270 683 272Q690 274 698 274Q718 274 718 261Q613 7 608 2Q605 0 322 0H133Q31 0 31 11Q31 13 34 25Q38 41 42 43T65 46Q92 46 125 49Q139 52 144 61Q146 66 215 342T285 622Q285 629 281 629Q273 632 228 634H197Q191 640 191 642T193 659Q197 676 203 680H757Q764 676 764 669Q764 664 751 557T737 447Q735 440 717 440H705Q698 445 698 453L701 476Q704 500 704 528Q704 558 697 578T678 609T643 625T596 632T532 634H485Q397 633 392 631Q388 629 386 622Q385 619 355 499T324 377Q347 376 372 376H398Q464 376 489 391T534 472Q538 488 540 490T557 493Q562 493 565 493T570 492T572 491T574 487T577 483L544 351Q511 218 508 216Q505 213 492 213Z"/>
+<path stroke-width="1" id="E1-MJMATHI-58" d="M42 0H40Q26 0 26 11Q26 15 29 27Q33 41 36 43T55 46Q141 49 190 98Q200 108 306 224T411 342Q302 620 297 625Q288 636 234 637H206Q200 643 200 645T202 664Q206 677 212 683H226Q260 681 347 681Q380 681 408 681T453 682T473 682Q490 682 490 671Q490 670 488 658Q484 643 481 640T465 637Q434 634 411 620L488 426L541 485Q646 598 646 610Q646 628 622 635Q617 635 609 637Q594 637 594 648Q594 650 596 664Q600 677 606 683H618Q619 683 643 683T697 681T738 680Q828 680 837 683H845Q852 676 852 672Q850 647 840 637H824Q790 636 763 628T722 611T698 593L687 584Q687 585 592 480L505 384Q505 383 536 304T601 142T638 56Q648 47 699 46Q734 46 734 37Q734 35 732 23Q728 7 725 4T711 1Q708 1 678 1T589 2Q528 2 496 2T461 1Q444 1 444 10Q444 11 446 25Q448 35 450 39T455 44T464 46T480 47T506 54Q523 62 523 64Q522 64 476 181L429 299Q241 95 236 84Q232 76 232 72Q232 53 261 47Q262 47 267 47T273 46Q276 46 277 46T280 45T283 42T284 35Q284 26 282 19Q279 6 276 4T261 1Q258 1 243 1T201 2T142 2Q64 2 42 0Z"/>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+ <use xlink:href="#E1-MJMATHI-4C" x="0" y="0"/>
+<g transform="translate(356,0)">
+ <use transform="scale(0.707)" xlink:href="#E1-MJMATHI-41" x="0" y="296"/>
+</g>
+ <use xlink:href="#E1-MJMATHI-54" x="717" y="0"/>
+<g transform="translate(1281,0)">
+ <use xlink:href="#E1-MJMATHI-45" x="0" y="-216"/>
+</g>
+ <use xlink:href="#E1-MJMATHI-58" x="1931" y="0"/>
+</g>
+</svg>常用数学符号</td>
+<td align="center"><a href="http://wangtuo.co/LaTeX/symbols.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">快速入门PPT</td>
+<td align="center"><a href="http://wangtuo.co/LaTeX/ppt.pdf">点此下载</a></td>
+</tr>
+</tbody></table>
+]]></content>
+  </entry>
+  <entry>
     <title>抽象代数</title>
     <url>/2022/04/03/abstract/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
@@ -1513,51 +1588,6 @@
 <tbody><tr>
 <td align="center">Algebra 1  by Ramji</td>
 <td align="center"><a href="http://wangtuo.co/algebra/algebra1_Ramji.pdf">点此下载</a></td>
-</tr>
-</tbody></table>
-]]></content>
-  </entry>
-  <entry>
-    <title>LaTeX</title>
-    <url>/2022/04/03/LaTeX/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><table>
-<thead>
-<tr>
-<th align="center">电子书</th>
-<th align="center">下载</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">一份不太简短的介绍</td>
-<td align="center"><a href="http://wangtuo.co/LaTeX/lshort-zh-cn.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="6.465ex" height="2.676ex" style="vertical-align: -0.838ex;" viewbox="0 -791.3 2783.7 1152.1" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
-<title id="MathJax-SVG-1-Title">\LaTeX</title>
-<defs aria-hidden="true">
-<path stroke-width="1" id="E1-MJMATHI-4C" d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 217 683Q271 680 344 680Q485 680 506 683H518Q524 677 524 674T522 656Q517 641 513 637H475Q406 636 394 628Q387 624 380 600T313 336Q297 271 279 198T252 88L243 52Q243 48 252 48T311 46H328Q360 46 379 47T428 54T478 72T522 106T564 161Q580 191 594 228T611 270Q616 273 628 273H641Q647 264 647 262T627 203T583 83T557 9Q555 4 553 3T537 0T494 -1Q483 -1 418 -1T294 0H116Q32 0 32 10Q32 17 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"/>
-<path stroke-width="1" id="E1-MJMATHI-41" d="M208 74Q208 50 254 46Q272 46 272 35Q272 34 270 22Q267 8 264 4T251 0Q249 0 239 0T205 1T141 2Q70 2 50 0H42Q35 7 35 11Q37 38 48 46H62Q132 49 164 96Q170 102 345 401T523 704Q530 716 547 716H555H572Q578 707 578 706L606 383Q634 60 636 57Q641 46 701 46Q726 46 726 36Q726 34 723 22Q720 7 718 4T704 0Q701 0 690 0T651 1T578 2Q484 2 455 0H443Q437 6 437 9T439 27Q443 40 445 43L449 46H469Q523 49 533 63L521 213H283L249 155Q208 86 208 74ZM516 260Q516 271 504 416T490 562L463 519Q447 492 400 412L310 260L413 259Q516 259 516 260Z"/>
-<path stroke-width="1" id="E1-MJMATHI-54" d="M40 437Q21 437 21 445Q21 450 37 501T71 602L88 651Q93 669 101 677H569H659Q691 677 697 676T704 667Q704 661 687 553T668 444Q668 437 649 437Q640 437 637 437T631 442L629 445Q629 451 635 490T641 551Q641 586 628 604T573 629Q568 630 515 631Q469 631 457 630T439 622Q438 621 368 343T298 60Q298 48 386 46Q418 46 427 45T436 36Q436 31 433 22Q429 4 424 1L422 0Q419 0 415 0Q410 0 363 1T228 2Q99 2 64 0H49Q43 6 43 9T45 27Q49 40 55 46H83H94Q174 46 189 55Q190 56 191 56Q196 59 201 76T241 233Q258 301 269 344Q339 619 339 625Q339 630 310 630H279Q212 630 191 624Q146 614 121 583T67 467Q60 445 57 441T43 437H40Z"/>
-<path stroke-width="1" id="E1-MJMATHI-45" d="M492 213Q472 213 472 226Q472 230 477 250T482 285Q482 316 461 323T364 330H312Q311 328 277 192T243 52Q243 48 254 48T334 46Q428 46 458 48T518 61Q567 77 599 117T670 248Q680 270 683 272Q690 274 698 274Q718 274 718 261Q613 7 608 2Q605 0 322 0H133Q31 0 31 11Q31 13 34 25Q38 41 42 43T65 46Q92 46 125 49Q139 52 144 61Q146 66 215 342T285 622Q285 629 281 629Q273 632 228 634H197Q191 640 191 642T193 659Q197 676 203 680H757Q764 676 764 669Q764 664 751 557T737 447Q735 440 717 440H705Q698 445 698 453L701 476Q704 500 704 528Q704 558 697 578T678 609T643 625T596 632T532 634H485Q397 633 392 631Q388 629 386 622Q385 619 355 499T324 377Q347 376 372 376H398Q464 376 489 391T534 472Q538 488 540 490T557 493Q562 493 565 493T570 492T572 491T574 487T577 483L544 351Q511 218 508 216Q505 213 492 213Z"/>
-<path stroke-width="1" id="E1-MJMATHI-58" d="M42 0H40Q26 0 26 11Q26 15 29 27Q33 41 36 43T55 46Q141 49 190 98Q200 108 306 224T411 342Q302 620 297 625Q288 636 234 637H206Q200 643 200 645T202 664Q206 677 212 683H226Q260 681 347 681Q380 681 408 681T453 682T473 682Q490 682 490 671Q490 670 488 658Q484 643 481 640T465 637Q434 634 411 620L488 426L541 485Q646 598 646 610Q646 628 622 635Q617 635 609 637Q594 637 594 648Q594 650 596 664Q600 677 606 683H618Q619 683 643 683T697 681T738 680Q828 680 837 683H845Q852 676 852 672Q850 647 840 637H824Q790 636 763 628T722 611T698 593L687 584Q687 585 592 480L505 384Q505 383 536 304T601 142T638 56Q648 47 699 46Q734 46 734 37Q734 35 732 23Q728 7 725 4T711 1Q708 1 678 1T589 2Q528 2 496 2T461 1Q444 1 444 10Q444 11 446 25Q448 35 450 39T455 44T464 46T480 47T506 54Q523 62 523 64Q522 64 476 181L429 299Q241 95 236 84Q232 76 232 72Q232 53 261 47Q262 47 267 47T273 46Q276 46 277 46T280 45T283 42T284 35Q284 26 282 19Q279 6 276 4T261 1Q258 1 243 1T201 2T142 2Q64 2 42 0Z"/>
-</defs>
-<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
- <use xlink:href="#E1-MJMATHI-4C" x="0" y="0"/>
-<g transform="translate(356,0)">
- <use transform="scale(0.707)" xlink:href="#E1-MJMATHI-41" x="0" y="296"/>
-</g>
- <use xlink:href="#E1-MJMATHI-54" x="717" y="0"/>
-<g transform="translate(1281,0)">
- <use xlink:href="#E1-MJMATHI-45" x="0" y="-216"/>
-</g>
- <use xlink:href="#E1-MJMATHI-58" x="1931" y="0"/>
-</g>
-</svg>常用数学符号</td>
-<td align="center"><a href="http://wangtuo.co/LaTeX/symbols.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">快速入门PPT</td>
-<td align="center"><a href="http://wangtuo.co/LaTeX/ppt.pdf">点此下载</a></td>
 </tr>
 </tbody></table>
 ]]></content>
