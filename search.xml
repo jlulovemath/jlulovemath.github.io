@@ -300,31 +300,6 @@
       </categories>
   </entry>
   <entry>
-    <title>Fourier分析</title>
-    <url>/2022/06/05/Fourier/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><table>
-<thead>
-<tr>
-<th align="center">电子书</th>
-<th align="center">下载</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">Fourier分析——Stein</td>
-<td align="center"><a href="http://wangtuo.co/Fourier%2FStein.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">傅里叶变换及其应用（斯坦福）</td>
-<td align="center"><a href="http://wangtuo.co/Fourier%2F%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%EF%BC%88%E6%96%AF%E5%9D%A6%E7%A6%8F%EF%BC%89.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">傅里叶分析讲义 (台湾国立交通大学)</td>
-<td align="center"><a href="http://wangtuo.co/Fourier%2F%E5%82%85%E9%87%8C%E5%8F%B6%E5%88%86%E6%9E%90%E8%AE%B2%E4%B9%89%20(%E5%8F%B0%E6%B9%BE%E5%9B%BD%E7%AB%8B%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6).pdf">点此下载</a></td>
-</tr>
-</tbody></table>
-]]></content>
-  </entry>
-  <entry>
     <title>LaTeX</title>
     <url>/2022/04/03/LaTeX/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><table>
@@ -370,25 +345,26 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Python</title>
-    <url>/2022/05/01/Python/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
-<p>Python基础</p>
-</blockquote>
-<table>
+    <title>Fourier分析</title>
+    <url>/2022/06/05/Fourier/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><table>
 <thead>
 <tr>
-<th align="center">推荐资源</th>
-<th align="center">获取</th>
+<th align="center">电子书</th>
+<th align="center">下载</th>
 </tr>
 </thead>
 <tbody><tr>
-<td align="center">尚硅谷Python基础教程</td>
-<td align="center"><a href="https://www.bilibili.com/video/BV1hW41197sB?spm_id_from=333.337.search-card.all.click">点此跳转</a></td>
+<td align="center">Fourier分析——Stein</td>
+<td align="center"><a href="http://wangtuo.co/Fourier%2FStein.pdf">点此下载</a></td>
 </tr>
 <tr>
-<td align="center">尚硅谷Python基础教程配套资源</td>
-<td align="center"><a href="http://wangtuo.co/python/01-%E4%BB%A3%E7%A0%81-%E7%AC%94%E8%AE%B0.zip">点此下载</a></td>
+<td align="center">傅里叶变换及其应用（斯坦福）</td>
+<td align="center"><a href="http://wangtuo.co/Fourier%2F%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%EF%BC%88%E6%96%AF%E5%9D%A6%E7%A6%8F%EF%BC%89.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">傅里叶分析讲义 (台湾国立交通大学)</td>
+<td align="center"><a href="http://wangtuo.co/Fourier%2F%E5%82%85%E9%87%8C%E5%8F%B6%E5%88%86%E6%9E%90%E8%AE%B2%E4%B9%89%20(%E5%8F%B0%E6%B9%BE%E5%9B%BD%E7%AB%8B%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6).pdf">点此下载</a></td>
 </tr>
 </tbody></table>
 ]]></content>
@@ -462,6 +438,30 @@
 <tbody><tr>
 <td align="center">Algebra 1  by Ramji</td>
 <td align="center"><a href="http://wangtuo.co/algebra/algebra1_Ramji.pdf">点此下载</a></td>
+</tr>
+</tbody></table>
+]]></content>
+  </entry>
+  <entry>
+    <title>Python</title>
+    <url>/2022/05/01/Python/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<p>Python基础</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="center">推荐资源</th>
+<th align="center">获取</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">尚硅谷Python基础教程</td>
+<td align="center"><a href="https://www.bilibili.com/video/BV1hW41197sB?spm_id_from=333.337.search-card.all.click">点此跳转</a></td>
+</tr>
+<tr>
+<td align="center">尚硅谷Python基础教程配套资源</td>
+<td align="center"><a href="http://wangtuo.co/python/01-%E4%BB%A3%E7%A0%81-%E7%AC%94%E8%AE%B0.zip">点此下载</a></td>
 </tr>
 </tbody></table>
 ]]></content>
@@ -543,61 +543,6 @@
 <tr>
 <td align="center">基础代数学 章璞 吴泉水</td>
 <td align="center"><a href="http://wangtuo.co/algebra/basicalgebra_shanghai.pdf">点此下载</a></td>
-</tr>
-</tbody></table>
-]]></content>
-  </entry>
-  <entry>
-    <title>数值分析</title>
-    <url>/2022/05/02/computing/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
-<p>吉大教材</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th align="center">电子书</th>
-<th align="center">下载</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">数值分析——黄明游（上册）</td>
-<td align="center"><a href="http://wangtuo.co/computing/%E9%BB%84%E6%98%8E%E6%B8%B8.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">数值分析——黄明游（下册）</td>
-<td align="center"><a href="http://wangtuo.co/computing%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%20(%E9%BB%84%E6%98%8E%E6%B8%B8)%20%E4%B8%8B%E5%86%8C.pdf">点此下载</a></td>
-</tr>
-</tbody></table>
-<blockquote>
-<p> 参考教材</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th align="center">电子书</th>
-<th align="center">下载</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">数值分析——李乃成、梅立泉</td>
-<td align="center"><a href="http://wangtuo.co/computing/%E6%9D%8E%E4%B9%83%E6%88%90.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">数值分析——李庆扬第五版</td>
-<td align="center"><a href="http://wangtuo.co/computing/%E6%9D%8E%E5%BA%86%E6%89%AC%E7%AC%AC%E4%BA%94%E7%89%88.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">数值分析——李庆扬习题解答</td>
-<td align="center"><a href="http://wangtuo.co/computing/%E6%9D%8E%E5%BA%86%E6%89%AC%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">数值分析第5版全程导学及习题全解–杨蕤</td>
-<td align="center"><a href="http://wangtuo.co/computing%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E7%AC%AC5%E7%89%88%E5%85%A8%E7%A8%8B%E5%AF%BC%E5%AD%A6%E5%8F%8A%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3--%E6%9D%A8%E8%95%A4.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center"></td>
 </tr>
 </tbody></table>
 ]]></content>
@@ -700,6 +645,116 @@
 ]]></content>
   </entry>
   <entry>
+    <title>数值分析</title>
+    <url>/2022/05/02/computing/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<p>吉大教材</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="center">电子书</th>
+<th align="center">下载</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">数值分析——黄明游（上册）</td>
+<td align="center"><a href="http://wangtuo.co/computing/%E9%BB%84%E6%98%8E%E6%B8%B8.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">数值分析——黄明游（下册）</td>
+<td align="center"><a href="http://wangtuo.co/computing%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%20(%E9%BB%84%E6%98%8E%E6%B8%B8)%20%E4%B8%8B%E5%86%8C.pdf">点此下载</a></td>
+</tr>
+</tbody></table>
+<blockquote>
+<p> 参考教材</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="center">电子书</th>
+<th align="center">下载</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">数值分析——李乃成、梅立泉</td>
+<td align="center"><a href="http://wangtuo.co/computing/%E6%9D%8E%E4%B9%83%E6%88%90.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">数值分析——李庆扬第五版</td>
+<td align="center"><a href="http://wangtuo.co/computing/%E6%9D%8E%E5%BA%86%E6%89%AC%E7%AC%AC%E4%BA%94%E7%89%88.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">数值分析——李庆扬习题解答</td>
+<td align="center"><a href="http://wangtuo.co/computing/%E6%9D%8E%E5%BA%86%E6%89%AC%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">数值分析第5版全程导学及习题全解–杨蕤</td>
+<td align="center"><a href="http://wangtuo.co/computing%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E7%AC%AC5%E7%89%88%E5%85%A8%E7%A8%8B%E5%AF%BC%E5%AD%A6%E5%8F%8A%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3--%E6%9D%A8%E8%95%A4.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody></table>
+]]></content>
+  </entry>
+  <entry>
+    <title>泛函分析</title>
+    <url>/2022/06/05/functional/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<p>中文书籍</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="center">电子书</th>
+<th align="center">下载</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">泛函分析——孙炯（第二版）</td>
+<td align="center"><a href="http://wangtuo.co/functional%2F%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E5%AD%99%E7%82%AF%E7%AC%AC%E4%BA%8C%E7%89%88.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">泛函分析——孙炯习题解答</td>
+<td align="center"><a href="http://wangtuo.co/functional%2F%E5%AD%99%E7%82%AF%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E7%AD%94%E6%A1%88.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">泛函分析讲义(张恭庆)</td>
+<td align="center"><a href="http://wangtuo.co/functional%2F%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E8%AE%B2%E4%B9%89(%E5%BC%A0%E6%81%AD%E5%BA%86).pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">泛函分析及其应用–张世清</td>
+<td align="center"><a href="http://wangtuo.co/functional%2F%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8--%E5%BC%A0%E4%B8%96%E6%B8%85.pdf">点此下载</a></td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>英文书籍</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="center">电子书</th>
+<th align="center">下载</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">Stein 泛函分析</td>
+<td align="center"><a href="http://wangtuo.co/functional%2FStein.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">Rudin 泛函分析</td>
+<td align="center"><a href="http://wangtuo.co/functional%2FRudin.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">GTM 96</td>
+<td align="center"><a href="http://wangtuo.co/functional%2FGTM96.pdf">点此下载</a></td>
+</tr>
+</tbody></table>
+]]></content>
+  </entry>
+  <entry>
     <title>微分几何</title>
     <url>/2022/06/05/differential/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
@@ -766,63 +821,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>泛函分析</title>
-    <url>/2022/06/05/functional/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
-<p>中文书籍</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th align="center">电子书</th>
-<th align="center">下载</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">泛函分析——孙炯（第二版）</td>
-<td align="center"><a href="http://wangtuo.co/functional%2F%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E5%AD%99%E7%82%AF%E7%AC%AC%E4%BA%8C%E7%89%88.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">泛函分析——孙炯习题解答</td>
-<td align="center"><a href="http://wangtuo.co/functional%2F%E5%AD%99%E7%82%AF%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E7%AD%94%E6%A1%88.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">泛函分析讲义(张恭庆)</td>
-<td align="center"><a href="http://wangtuo.co/functional%2F%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E8%AE%B2%E4%B9%89(%E5%BC%A0%E6%81%AD%E5%BA%86).pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">泛函分析及其应用–张世清</td>
-<td align="center"><a href="http://wangtuo.co/functional%2F%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8--%E5%BC%A0%E4%B8%96%E6%B8%85.pdf">点此下载</a></td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>英文书籍</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th align="center">电子书</th>
-<th align="center">下载</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">Stein 泛函分析</td>
-<td align="center"><a href="http://wangtuo.co/functional%2FStein.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">Rudin 泛函分析</td>
-<td align="center"><a href="http://wangtuo.co/functional%2FRudin.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">GTM 96</td>
-<td align="center"><a href="http://wangtuo.co/functional%2FGTM96.pdf">点此下载</a></td>
-</tr>
-</tbody></table>
-]]></content>
-  </entry>
-  <entry>
-    <title>华为AI教材</title>
-    <url>/2022/05/01/huawei/</url>
+    <title>调和分析</title>
+    <url>/2022/06/05/harmonic/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><table>
 <thead>
 <tr>
@@ -831,12 +831,16 @@
 </tr>
 </thead>
 <tbody><tr>
-<td align="center">华为AI培训教材</td>
-<td align="center"><a href="http://wangtuo.co/huawei/%E5%9F%B9%E8%AE%AD%E6%95%99%E6%9D%90.pdf">点此下载</a></td>
+<td align="center">调和分析 (林钦诚)</td>
+<td align="center"><a href="http://wangtuo.co/harmonic%2F%E8%B0%83%E5%92%8C%E5%88%86%E6%9E%90%20(%E6%9E%97%E9%92%A6%E8%AF%9A).pdf">点此下载</a></td>
 </tr>
 <tr>
-<td align="center">华为AI实验手册</td>
-<td align="center"><a href="http://wangtuo.co/huawei/%E5%AE%9E%E9%AA%8C%E6%89%8B%E5%86%8C.pdf">点此下载</a></td>
+<td align="center">调和分析讲义 实变方法 (周民强)</td>
+<td align="center"><a href="http://wangtuo.co/harmonic%2F%E8%B0%83%E5%92%8C%E5%88%86%E6%9E%90%E8%AE%B2%E4%B9%89%20%E5%AE%9E%E5%8F%98%E6%96%B9%E6%B3%95%20(%E5%91%A8%E6%B0%91%E5%BC%BA).pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">调和分析及其在偏微分方程中的应用 (苗长兴)</td>
+<td align="center"><a href="http://wangtuo.co/harmonic%2F%E8%B0%83%E5%92%8C%E5%88%86%E6%9E%90%E5%8F%8A%E5%85%B6%E5%9C%A8%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%20(%E8%8B%97%E9%95%BF%E5%85%B4).pdf">点此下载</a></td>
 </tr>
 </tbody></table>
 ]]></content>
@@ -870,8 +874,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>调和分析</title>
-    <url>/2022/06/05/harmonic/</url>
+    <title>华为AI教材</title>
+    <url>/2022/05/01/huawei/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><table>
 <thead>
 <tr>
@@ -880,16 +884,12 @@
 </tr>
 </thead>
 <tbody><tr>
-<td align="center">调和分析 (林钦诚)</td>
-<td align="center"><a href="http://wangtuo.co/harmonic%2F%E8%B0%83%E5%92%8C%E5%88%86%E6%9E%90%20(%E6%9E%97%E9%92%A6%E8%AF%9A).pdf">点此下载</a></td>
+<td align="center">华为AI培训教材</td>
+<td align="center"><a href="http://wangtuo.co/huawei/%E5%9F%B9%E8%AE%AD%E6%95%99%E6%9D%90.pdf">点此下载</a></td>
 </tr>
 <tr>
-<td align="center">调和分析讲义 实变方法 (周民强)</td>
-<td align="center"><a href="http://wangtuo.co/harmonic%2F%E8%B0%83%E5%92%8C%E5%88%86%E6%9E%90%E8%AE%B2%E4%B9%89%20%E5%AE%9E%E5%8F%98%E6%96%B9%E6%B3%95%20(%E5%91%A8%E6%B0%91%E5%BC%BA).pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">调和分析及其在偏微分方程中的应用 (苗长兴)</td>
-<td align="center"><a href="http://wangtuo.co/harmonic%2F%E8%B0%83%E5%92%8C%E5%88%86%E6%9E%90%E5%8F%8A%E5%85%B6%E5%9C%A8%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%20(%E8%8B%97%E9%95%BF%E5%85%B4).pdf">点此下载</a></td>
+<td align="center">华为AI实验手册</td>
+<td align="center"><a href="http://wangtuo.co/huawei/%E5%AE%9E%E9%AA%8C%E6%89%8B%E5%86%8C.pdf">点此下载</a></td>
 </tr>
 </tbody></table>
 ]]></content>
@@ -957,6 +957,35 @@
 ]]></content>
   </entry>
   <entry>
+    <title>数学建模</title>
+    <url>/2022/02/01/model/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><table>
+<thead>
+<tr>
+<th align="center">电子书</th>
+<th align="center">下载</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">数学模型-姜启源（第四版）</td>
+<td align="center"><a href="http://wangtuo.co/model/jiangqiyuan.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">数学建模算法与应用</td>
+<td align="center"><a href="http://wangtuo.co/model/model1.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">美赛数学建模写作模板(doc文档)</td>
+<td align="center"><a href="http://wangtuo.co/model/xiezuo.doc">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">美赛写作常用句式总结</td>
+<td align="center"><a href="http://wangtuo.co/model/jushi.doc">点此下载</a></td>
+</tr>
+</tbody></table>
+]]></content>
+  </entry>
+  <entry>
     <title>数论</title>
     <url>/2022/06/05/number/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
@@ -1018,78 +1047,6 @@
 <tbody><tr>
 <td align="center">解析数论基础 (潘承洞、潘承彪)</td>
 <td align="center"><a href="http://wangtuo.co/number%2F%E8%A7%A3%E6%9E%90%E6%95%B0%E8%AE%BA%E5%9F%BA%E7%A1%80%20(%E6%BD%98%E6%89%BF%E6%B4%9E%E3%80%81%E6%BD%98%E6%89%BF%E5%BD%AA)%20(z-lib.org).pdf">点此下载</a></td>
-</tr>
-</tbody></table>
-]]></content>
-  </entry>
-  <entry>
-    <title>数学建模</title>
-    <url>/2022/02/01/model/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><table>
-<thead>
-<tr>
-<th align="center">电子书</th>
-<th align="center">下载</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">数学模型-姜启源（第四版）</td>
-<td align="center"><a href="http://wangtuo.co/model/jiangqiyuan.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">数学建模算法与应用</td>
-<td align="center"><a href="http://wangtuo.co/model/model1.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">美赛数学建模写作模板(doc文档)</td>
-<td align="center"><a href="http://wangtuo.co/model/xiezuo.doc">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">美赛写作常用句式总结</td>
-<td align="center"><a href="http://wangtuo.co/model/jushi.doc">点此下载</a></td>
-</tr>
-</tbody></table>
-]]></content>
-  </entry>
-  <entry>
-    <title>常微分方程</title>
-    <url>/2022/04/08/ode/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
-<p>吉大教材</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th align="center">电子书</th>
-<th align="center">下载</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">常微分方程吉大教材</td>
-<td align="center"><a href="http://wangtuo.co/ode/jlu.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">常微分方程吉大教材习题解答</td>
-<td align="center"><a href="http://wangtuo.co/ode/jlu_answer.pdf">点此下载</a></td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>其他参考书</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th align="center">电子书</th>
-<th align="center">下载</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">常微分方程-袁荣</td>
-<td align="center"><a href="http://wangtuo.co/ode/yuanrong.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">常微分方程袁荣习题解答</td>
-<td align="center"><a href="http://wangtuo.co/ode/yuanrong_answer.pdf">点此下载</a></td>
 </tr>
 </tbody></table>
 ]]></content>
@@ -1188,6 +1145,49 @@
 <tr>
 <td align="center">普通物理学第七版习题解答——程守洙</td>
 <td align="center"><a href="http://wangtuo.co/physics%2F%E7%A8%8B%E5%AE%88%E6%B4%99%E7%AC%AC%E4%B8%83%E7%89%88%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf">点此下载</a></td>
+</tr>
+</tbody></table>
+]]></content>
+  </entry>
+  <entry>
+    <title>常微分方程</title>
+    <url>/2022/04/08/ode/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<p>吉大教材</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="center">电子书</th>
+<th align="center">下载</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">常微分方程吉大教材</td>
+<td align="center"><a href="http://wangtuo.co/ode/jlu.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">常微分方程吉大教材习题解答</td>
+<td align="center"><a href="http://wangtuo.co/ode/jlu_answer.pdf">点此下载</a></td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>其他参考书</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="center">电子书</th>
+<th align="center">下载</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">常微分方程-袁荣</td>
+<td align="center"><a href="http://wangtuo.co/ode/yuanrong.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">常微分方程袁荣习题解答</td>
+<td align="center"><a href="http://wangtuo.co/ode/yuanrong_answer.pdf">点此下载</a></td>
 </tr>
 </tbody></table>
 ]]></content>
