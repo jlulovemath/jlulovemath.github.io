@@ -68,6 +68,7 @@ body {
   background-color: var(--color-background);
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-image: url("https://wangtuo.co/images%2Fbackground.jpeg");
 }
 body a {
   color: var(--color-text);
