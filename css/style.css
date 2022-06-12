@@ -68,7 +68,6 @@ body {
   background-color: var(--color-background);
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: url("https://wangtuo.co/images%2Fbackground.jpeg");
 }
 body a {
   color: var(--color-text);
@@ -133,6 +132,22 @@ body input {
   border: 0;
   background: none;
   outline: none;
+}
+::-webkit-scrollbar,
+::-webkit-scrollbar-track {
+  width: 6px;
+  height: 6px;
+  background-color: var(--color-background);
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--color-text);
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--color-text);
+}
+::-webkit-scrollbar-thumb,
+::-webkit-scrollbar-thumb:hover {
+  transition: all 0.3s cubic-bezier(0.25, 0.5, 0.5, 0.9);
 }
 *::selection {
   background: #ff3b00;
