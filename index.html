@@ -230,7 +230,131 @@ var _hmt = _hmt || [];
 </div>
   
   <div class="container" id="container">
-    <p> text <br> </p> 
+    <style>
+* {
+    box-sizing: border-box;
+    margin: 0; padding: 0;
+}
+/*为方便观察，将按钮元素放于屏幕中间
+1.top: 50%;left: 50%;代表可以让div块的左上顶点位于页面正中间
+2.transform: translate(-50%, -50%);代表让div块向上向左分别偏移50%，这样刚好使得div块位于正中央。
+*/
+.btn-holder{
+    position: absolute ;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
+.btn {
+    position: relative;
+    display: inline-block;
+    /*div的width/height设置为auto,那么表示的这个div的所有部分(内容、边框、内边距等的距离加起来)为父元素宽度*/
+    width: auto; height: auto;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    margin: 0 auto;
+    min-width: 100px;
+}
+.btn span {
+    position: relative;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    top: 0; left: 0;
+    width: 100%;
+    padding: 15px 20px;
+    transition: 0.3s;
+}
+
+/*--- btn-2 ---*/
+.btn-2::before {
+    position: absolute;
+    content: "";
+    background-color: rgb(28, 31, 30);
+    transition: 0.3s ease-out;
+}
+.btn-2 span {
+    color: rgb(28, 31, 30);
+    border: 1px solid rgb(28, 31, 30);
+    transition: 0.2s;
+}
+.btn-2 span:hover {
+    color: rgb(255,255,255);
+    transition: 0.2s 0.1s;
+}
+
+/* 6. hover-slide-down */
+.btn.hover-slide-down::before {
+    top: 0; left: 0; right: 0;
+    height: 0%; width: 100%;
+}
+.btn.hover-slide-down:hover::before {
+    height: 100%;
+}
+
+/* 7. hover-slide-up */
+.btn.hover-slide-up::before {
+    bottom: 0; left: 0; right: 0;
+    height: 0%; width: 100%;
+}
+.btn.hover-slide-up:hover::before {
+    height: 100%;
+}
+
+/* 8. hover-slide-left */
+.btn.hover-slide-left::before {
+    top: 0; bottom: 0; right: 0;
+    height: 100%; width: 0%;
+}
+.btn.hover-slide-left:hover::before {
+    width: 100%;
+}
+
+/* 9. hover-slide-right */
+.btn.hover-slide-right::before {
+    top: 0; bottom: 0; left: 0;
+    height: 100%; width: 0%;
+}
+.btn.hover-slide-right:hover::before {
+    width: 100%;
+}
+
+/* 10. hover-opacity */
+.btn.hover-opacity::before {
+    height: 100%; width: 100%;
+    opacity: 0;
+}
+.btn.hover-opacity:hover::before {
+    opacity: 1;
+}
+</style>
+
+<div class="btn-holder">
+    <button class="btn btn-2 hover-slide-down">
+        <span>hover me </span>
+    </button>
+    <button class="btn btn-2 hover-slide-up">
+        <span>hover me </span>
+    </button>
+    <button class="btn btn-2 hover-slide-left">
+        <span>hover me </span>
+    </button>
+    <button class="btn btn-2 hover-slide-right">
+        <span>hover me </span>
+    </button>
+    <button class="btn btn-2 hover-opacity">
+        <span>hover me </span>
+    </button>
+</div>
 <section class="row post">
   
     
