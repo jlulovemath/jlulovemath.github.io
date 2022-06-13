@@ -389,6 +389,317 @@ var _hmt = _hmt || [];
 </main>
   
 
+<style>
+.button {
+    position: relative;
+    background-color: #ffffff;
+  border:2px solid #008cba;
+    border-radius:8px;
+    font-size: 14px;
+    color:  #020d14f5;
+    padding: 10px 20px;
+    margin: 4px 2px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+ 
+.button:after {
+    content: "";
+    background: #a9a9a9;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+ 
+.button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+</style>
+
+<h2 align="center"> 目录 </h2>
+<h3>&nbsp;&nbsp;
+    <!-- <button class="button" >分析与微分方程</button>
+    &nbsp; : &nbsp; -->
+    分析与微分方程 : &nbsp;
+    <a href="https://jlulovemath.github.io/2022/04/10/analysis/">
+    <button class="button" >数学分析</button></a>
+    &nbsp;
+    <a href="https://jlulovemath.github.io/2022/04/07/Complex%20Analysis/">
+      <button class="button" >复分析</button></a>
+      &nbsp;
+    <a href="https://jlulovemath.github.io/2022/05/10/real/">
+    <button class="button" >实分析</button></a>
+        &nbsp;
+    <a href="https://jlulovemath.github.io/2022/06/05/functional/">
+          <button class="button" >泛函分析</button></a>
+          &nbsp;
+    <a href="https://jlulovemath.github.io/2022/06/05/Fourier/">
+        <button class="button" >Fourier分析</button></a>
+        &nbsp;
+    <a href="https://jlulovemath.github.io/2022/06/05/harmonic/">
+          <button class="button" >调和分析</button></a>
+          &nbsp;
+          <!-- <br>&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  
+          &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;
+          &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp; -->
+    <a href="https://jlulovemath.github.io/2022/04/08/ode/">
+            <button class="button" >ODE</button></a>
+            &nbsp;
+    <a href="https://jlulovemath.github.io/2022/05/12/pde/">
+              <button class="button" >PDE</button></a>
+              &nbsp;
+</h3>
+<h3>
+  &nbsp;&nbsp;
+  <!-- <button class="button" >代数与数论</button>
+  &nbsp; : &nbsp; -->
+  代数与数论 &nbsp; : &nbsp;&nbsp;
+  <a href="https://jlulovemath.github.io/2022/04/09/linear/">
+  <button class="button" >高等代数</button></a>
+  &nbsp;
+  <a href="https://jlulovemath.github.io/2022/04/03/abstract/">
+    <button class="button" >抽象代数</button></a>
+    &nbsp;
+  <a href="https://jlulovemath.github.io/2022/04/04/algebra/">
+    <button class="button" >域与Galois理论</button></a>
+    &nbsp;
+    <a href="https://jlulovemath.github.io/2022/04/04/algebra/">
+      <button class="button" >交换代数</button></a>
+      &nbsp;
+      <a href="https://jlulovemath.github.io/2022/04/04/algebra/">
+        <button class="button" >同调代数</button></a>
+        &nbsp;
+        <a href="https://jlulovemath.github.io/2022/04/04/algebra/">
+          <button class="button" >Lie代数</button></a>
+          &nbsp;
+  <a href="https://jlulovemath.github.io/2022/06/05/number/">
+      <button class="button" >数论</button></a>
+      &nbsp;
+</h3>
+<h3>
+    &nbsp;&nbsp;
+      <!-- <button class="button" >几何与拓扑</button>
+      &nbsp; : &nbsp; -->
+      几何与拓扑 &nbsp; : &nbsp;
+      <a href="https://jlulovemath.github.io/2022/05/04/kongjie/">
+      <button class="button" >空间解析几何</button></a>
+      &nbsp;
+      <a href="https://jlulovemath.github.io/2022/04/05/topology/">
+        <button class="button" >点集拓扑学</button></a>
+        &nbsp;
+        <a href="https://jlulovemath.github.io/2022/04/05/topology/">
+          <button class="button" >代数拓扑学</button></a>
+          &nbsp;
+        <a href="https://jlulovemath.github.io/2022/06/05/differential/">
+          <button class="button" >微分几何</button></a>
+          &nbsp;
+          <!-- <a href="https://jlulovemath.github.io/2022/04/04/algebra/"> -->
+            <button class="button" >Riemann几何</button>
+          <!-- </a> -->
+            &nbsp;
+          <!-- <a href="https://jlulovemath.github.io/2022/04/04/algebra/"> -->
+                <button class="button" >微分流形</button>
+              <!-- </a> -->
+                &nbsp;
+</h3>
+<h3>
+    &nbsp;&nbsp;
+          <!-- <button class="button" >概率统计</button>
+          &nbsp; : &nbsp; -->
+          概率与统计 &nbsp; : &nbsp;
+          <a href="https://jlulovemath.github.io/2022/04/06/probability/">
+          <button class="button" >概率论</button></a>
+          &nbsp;
+          <a href="https://jlulovemath.github.io/2022/06/07/statistic/">
+            <button class="button" >数理统计</button></a>
+            &nbsp;
+            <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+              <button class="button" >统计计算</button>
+            <!-- </a> -->
+              &nbsp;
+        <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+          <button class="button" >时间序列分析</button>
+          <!-- </a> -->
+            &nbsp;
+      <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+        <button class="button" >精算模型</button>
+        <!-- </a> -->
+          &nbsp;
+        <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+          <button class="button" >非参数统计</button>
+          <!-- </a> -->
+            &nbsp;
+            <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+          <button class="button" >多元统计分析</button>
+          <!-- </a> -->
+            &nbsp;
+</h3>
+<h3>
+  &nbsp;&nbsp;&nbsp;
+        <!-- <button class="button" >概率统计</button>
+        &nbsp; : &nbsp; -->
+        计算数学 &nbsp; : &nbsp;&nbsp;
+        <a href="https://jlulovemath.github.io/2022/05/02/computing/">
+        <button class="button" >数值分析</button></a>
+        &nbsp;
+        <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+          <button class="button" >数据结构</button>
+          <!-- </a> -->
+            &nbsp;
+            <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+          <button class="button" >偏微分方程数值解</button>
+          <!-- </a> -->
+            &nbsp;
+          <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+            <button class="button" >信息论基础</button>
+            <!-- </a> -->
+              &nbsp;
+        <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+          <button class="button" >差分法与有限元方法</button>
+          <!-- </a> -->
+            &nbsp;
+            <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+              <button class="button" >偏微分方程有限体积法</button>
+              <!-- </a> -->
+                &nbsp;
+        <!-- <a href="https://jlulovemath.github.io/2022/04/03/LaTeX/">
+          <button class="button" >LaTeX</button></a>
+          &nbsp; -->
+</h3>
+<h3>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+        <!-- <button class="button" >概率统计</button>
+        &nbsp; : &nbsp; -->
+        编程 &nbsp; : &nbsp;
+        <a href="https://jlulovemath.github.io/2022/05/01/Python/">
+        <button class="button" >Python</button></a>
+        &nbsp;
+        <a href="https://jlulovemath.github.io/2022/04/03/LaTeX/">
+          <button class="button" >LaTeX</button></a>
+          &nbsp;
+        <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+          <button class="button" >MATLAB</button>
+          <!-- </a> -->
+            &nbsp;
+        <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+          <button class="button" >C语言</button>
+          <!-- </a> -->
+            &nbsp;
+        <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+          <button class="button" >mathematica</button>
+          <!-- </a> -->
+            &nbsp;
+            <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+          <button class="button" >Java</button>
+          <!-- </a> -->
+            &nbsp;
+        <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+          <button class="button" >网站前端</button>
+          <!-- </a> -->
+            &nbsp;
+          
+</h3>
+<h3>
+  &nbsp;&nbsp;
+        <!-- <button class="button" >概率统计</button>
+        &nbsp; : &nbsp; -->
+        人工智能 &nbsp; : &nbsp;
+        <a href="https://jlulovemath.github.io/2022/05/01/huawei/">
+        <button class="button" >华为AI教材</button></a>
+        &nbsp;
+        <a href="https://jlulovemath.github.io/2022/05/01/AI/">
+          <button class="button" >机器学习</button></a>
+          &nbsp;
+          <a href="https://jlulovemath.github.io/2022/05/01/AI/">
+            <button class="button" >深度学习</button></a>
+            &nbsp;
+      <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+        <button class="button" >图像处理</button>
+        <!-- </a> -->
+          &nbsp;
+      <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+        <button class="button" >自然语言处理</button>
+        <!-- </a> -->
+          &nbsp;
+          <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+        <button class="button" >神经网络</button>
+        <!-- </a> -->
+          &nbsp;
+</h3>
+<h3>
+  &nbsp;&nbsp; &nbsp; 物理学 &nbsp; : &nbsp; &nbsp; 
+  <a href="https://jlulovemath.github.io/2022/02/04/physics/">
+    <button class="button" >普通物理学</button>
+    </a>
+      &nbsp;
+    <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+      <button class="button" >普通物理实验</button>
+      <!-- </a> -->
+        &nbsp;
+    <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+      <button class="button" >力学</button>
+      <!-- </a> -->
+        &nbsp;
+    <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+      <button class="button" >热学</button>
+      <!-- </a> -->
+        &nbsp;
+    <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+      <button class="button" >电磁学</button>
+      <!-- </a> -->
+        &nbsp;
+    <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+      <button class="button" >光学</button>
+      <!-- </a> -->
+        &nbsp;
+    <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+      <button class="button" >量子力学</button>
+      <!-- </a> -->
+        &nbsp;
+</h3>
+<h3>
+  &nbsp;&nbsp; &nbsp; 其他 &nbsp; : &nbsp; &nbsp; 
+  <a href="https://jlulovemath.github.io/2022/04/30/Exam/">
+    <button class="button" >期末考试</button>
+    </a>
+      &nbsp;
+  <a href="https://jlulovemath.github.io/2022/02/01/model/">
+    <button class="button" >数学建模</button>
+    </a>
+      &nbsp;
+  <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+    <button class="button" >全国大学生数学竞赛</button>
+    <!-- </a> -->
+      &nbsp;
+  <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+    <button class="button" >英语</button>
+    <!-- </a> -->
+      &nbsp;
+  <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+    <button class="button" >保研</button>
+    <!-- </a> -->
+      &nbsp;
+  <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+    <button class="button" >留学</button>
+    <!-- </a> -->
+      &nbsp;
+  <!-- <a href="https://jlulovemath.github.io/2022/06/07/statistic/"> -->
+    <button class="button" >科研</button>
+    <!-- </a> -->
+      &nbsp;
+</h3>
 
 <footer class="footer">
   <div class="footer-social"><a 
