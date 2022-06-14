@@ -1512,7 +1512,7 @@ body input {
 }
 @media (min-width: 1200px) {
   .article-wrap .container {
-    max-width: calc(850px * 12 / 6);
+    max-width: calc(1500px * 12 / 6);
   }
 }
 .article .wrap {
@@ -1831,7 +1831,7 @@ body input {
 }
 @media (min-width: 1200px) {
   .article-wrap--pure .container {
-    max-width: 850px;
+    max-width: 1500px;
   }
 }
 .article-wrap--pure .article .wrap {
