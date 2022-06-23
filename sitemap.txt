@@ -1,3 +1,4 @@
+http://jlulovemath.wangtuo.co/2022/04/03/LaTeX/
 http://jlulovemath.wangtuo.co/2022/04/07/Complex%20Analysis/
 http://jlulovemath.wangtuo.co/2022/05/05/welcome/
 http://jlulovemath.wangtuo.co/2022/06/07/warning/
@@ -12,7 +13,6 @@ http://jlulovemath.wangtuo.co/2022/04/08/ode/
 http://jlulovemath.wangtuo.co/2022/06/05/number/
 http://jlulovemath.wangtuo.co/2022/02/01/model/
 http://jlulovemath.wangtuo.co/2022/04/09/linear/
-http://jlulovemath.wangtuo.co/2022/04/03/LaTeX/
 http://jlulovemath.wangtuo.co/2022/05/04/kongjie/
 http://jlulovemath.wangtuo.co/2022/05/01/huawei/
 http://jlulovemath.wangtuo.co/2022/06/05/harmonic/
