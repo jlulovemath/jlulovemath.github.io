@@ -1611,12 +1611,14 @@
 <p>配置完必然是要测试一下，测试代码必然是经典的Hello World</p>
 </blockquote>
 <p>点击：文件-新建，并输入以下代码</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><code class="hljs latex">\documentclass&#123;ctexart&#125;<br><br>\begin&#123;document&#125;<br>	Hello World ! 你好，世界！<br>\end&#123;document&#125;<br></code></pre></td></tr></table></figure>
+
+
+
 <blockquote>
 <p>一个能够一定程度上提高编码效率的小提示：输入部分代码后会出现代码提示，直接按回车键Enter会自动补全哦！</p>
 </blockquote>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><code class="hljs latex">\documentclass&#123;ctexart&#125;<br><br>\begin&#123;document&#125;<br>	Hello World ! 你好，世界！<br>\end&#123;document&#125;<br></code></pre></td></tr></table></figure>
-
-<p>如果得到如图随时的代码，则表示配置成功（如果你将文件保存到一个文件夹，编译运行后你会在该文件夹看到一大堆文件，其中有一个就是你要的pdf）</p>
+<p>如果得到如图所示的结果，则表示配置成功（如果你将文件保存到一个文件夹，编译运行后你会在该文件夹看到一大堆文件，其中有一个就是你要的pdf）</p>
 <p><img src="https://wangtuo.co/LaTeX%2Fimages%2Fhello.png"></p>
 <h3 id="vscode配置LaTeX环境"><a href="#vscode配置LaTeX环境" class="headerlink" title="vscode配置LaTeX环境"></a>vscode配置LaTeX环境</h3><p>这部分本懒蛋打算以后再写，可自行百度（doge），也不是特别复杂，但需要提前安装<code>vscode</code>，<code>sumatraPDF</code></p>
 <h2 id="LaTeX学习指南"><a href="#LaTeX学习指南" class="headerlink" title="LaTeX学习指南"></a>LaTeX学习指南</h2><h3 id="LaTeX入门"><a href="#LaTeX入门" class="headerlink" title="LaTeX入门"></a>LaTeX入门</h3><p>我看过的b站网课：<a href="https://www.bilibili.com/video/BV15x411j7k6?spm_id_from=333.337.search-card.all.click">点此跳转</a></p>
