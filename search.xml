@@ -1512,6 +1512,79 @@
 ]]></content>
   </entry>
   <entry>
+    <title>抽象代数</title>
+    <url>/2022/04/03/abstract/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<p>抽象代数——吉大教材</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="center">电子书</th>
+<th align="center">下载</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">抽象代数——姚慕生</td>
+<td align="center"><a href="https://wangtuo.co/abstract/%E5%A7%9A%E6%85%95%E7%94%9F.pdf">点此下载</a></td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>中文参考书</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="center">电子书</th>
+<th align="center">下载</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">抽象代数引论——冯克勤、李尚志</td>
+<td align="center"><a href="https://wangtuo.co/abstract/%E5%86%AF%E5%85%8B%E5%8B%A4.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">近世代数——韩士安</td>
+<td align="center"><a href="https://wangtuo.co/abstract/%E9%9F%A9%E5%A3%AB%E5%AE%89.pdf">点此下载</a></td>
+</tr>
+<tr>
+<td align="center">近世代数——丘维声</td>
+<td align="center"><a href="https://wangtuo.co/abstract/%E4%B8%98%E7%BB%B4%E5%A3%B0.pdf">点此下载</a></td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>习题集</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="center">电子书</th>
+<th align="center">下载</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">近世代数300题</td>
+<td align="center"><a href="https://wangtuo.co/abstract/300.pdf">点此下载</a></td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>英文参考书</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="center">电子书</th>
+<th align="center">下载</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">Algebra 1  by Ramji</td>
+<td align="center"><a href="https://wangtuo.co/algebra/algebra1_Ramji.pdf">点此下载</a></td>
+</tr>
+</tbody></table>
+]]></content>
+  </entry>
+  <entry>
     <title>LaTeX</title>
     <url>/2022/04/03/LaTeX/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
@@ -1760,7 +1833,7 @@
 </svg>很重要的功能之一，虽然不是必须学的，但是个人建议还是学一下</p>
 </blockquote>
 <p>我看过的一个b站网课，强烈推荐，两天即可速成：<a href="https://www.bilibili.com/video/BV1hf4y1H7P3?spm_id_from=333.337.search-card.all.click">点此跳转</a></p>
-<p>以及我的个人学习笔记<a href="https://wangtuolovemath.gitee.io/2022/05/18/tikz/#more">点此跳转</a></p>
+<p>以及我的个人学习笔记：<a href="https://wangtuolovemath.gitee.io/2022/05/18/tikz/#more">点此跳转</a></p>
 <h3 id="LaTeX插入表格"><a href="#LaTeX插入表格" class="headerlink" title="LaTeX插入表格"></a>LaTeX插入表格</h3><p><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="6.465ex" height="2.676ex" style="vertical-align: -0.838ex;" viewbox="0 -791.3 2783.7 1152.1" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
 <title id="MathJax-SVG-1-Title">\LaTeX</title>
 <defs aria-hidden="true">
@@ -1786,12 +1859,46 @@
 <p>找到图片的文件夹（注：插入图片时，图片应保存到与.tex文件相同的目录下，我这里只是随便找了一个，用来演示图片格式转换）</p>
 <p><img src="https://wangtuo.co/LaTeX%2Fimages%2Ffigure.png"></p>
 <p>输入命令：</p>
-<figure class="highlight llvm"><table><tr><td class="code"><pre><code class="hljs llvm">bmeps -<span class="hljs-keyword">c</span> xxx.xxx xxx.eps<br>注：-<span class="hljs-keyword">c</span>是保住图片颜色的关键命令<br></code></pre></td></tr></table></figure>
+<figure class="highlight gams"><table><tr><td class="code"><pre><code class="hljs gams">bmeps -c xxx.xxx xxx.<span class="hljs-literal">eps</span><br></code></pre></td></tr></table></figure>
 
+<p>注：-c是保住图片颜色的关键命令</p>
 <p>例如：</p>
 <p><img src="https://wangtuo.co/LaTeX%2Fimages%2Fconvert.png"></p>
 <p>随后发现文件夹内多了一个相应的.eps文件</p>
 <p>关于插图命令，可参考我的笔记：<a href="https://wangtuolovemath.gitee.io/2022/02/01/latex_figure/">点此跳转</a>，或者自行搜索学习</p>
+<h3 id="texstudio常用快捷键"><a href="#texstudio常用快捷键" class="headerlink" title="texstudio常用快捷键"></a>texstudio常用快捷键</h3><table>
+<thead>
+<tr>
+<th align="center">功能</th>
+<th align="center">快捷键</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">一键构建并查看</td>
+<td align="center">F5</td>
+</tr>
+<tr>
+<td align="center">插入行内公式</td>
+<td align="center">Ctrl+Shift+M</td>
+</tr>
+<tr>
+<td align="center">多行注释</td>
+<td align="center">Ctrl+T</td>
+</tr>
+<tr>
+<td align="center">取消注释</td>
+<td align="center">Ctrl+U</td>
+</tr>
+<tr>
+<td align="center">加粗</td>
+<td align="center">Ctrl+B</td>
+</tr>
+<tr>
+<td align="center">斜体</td>
+<td align="center">Ctrl+I</td>
+</tr>
+</tbody></table>
+<p><strong>注：部分电脑F5为功能键，需按Fn+F5，搜狗输入法Ctrl+Shift+M为默认快捷键，可将其更改</strong></p>
 <h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><p>还有一个知乎上看到的一个不错的教程，可参考：<a href="https://zhuanlan.zhihu.com/p/56024243?v_p=89&WBAPIAnalysisOriUICodes=10000001&launchid=10000365--x&wm=3333_2001&aid=01AzimGOK10goehw_7vgMNEYEUTE3uu6igEKnhW4KhqSb-WDg.&from=10B7293010&utm_source=wechat_session&utm_medium=social&s_r=0&wechatShare=1">点此跳转</a></p>
 <h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="6.465ex" height="2.676ex" style="vertical-align: -0.838ex;" viewbox="0 -791.3 2783.7 1152.1" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
 <title id="MathJax-SVG-1-Title">\LaTeX</title>
@@ -1837,79 +1944,6 @@
 <img src="https://wangtuo.co/LaTeX%2Fimages%2Fcv.jpg" style="zoom:50%;">
 
 <img src="https://wangtuo.co/LaTeX%2Fimages%2Fcv2.jpg" style="zoom: 67%;">
-]]></content>
-  </entry>
-  <entry>
-    <title>抽象代数</title>
-    <url>/2022/04/03/abstract/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
-<p>抽象代数——吉大教材</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th align="center">电子书</th>
-<th align="center">下载</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">抽象代数——姚慕生</td>
-<td align="center"><a href="https://wangtuo.co/abstract/%E5%A7%9A%E6%85%95%E7%94%9F.pdf">点此下载</a></td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>中文参考书</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th align="center">电子书</th>
-<th align="center">下载</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">抽象代数引论——冯克勤、李尚志</td>
-<td align="center"><a href="https://wangtuo.co/abstract/%E5%86%AF%E5%85%8B%E5%8B%A4.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">近世代数——韩士安</td>
-<td align="center"><a href="https://wangtuo.co/abstract/%E9%9F%A9%E5%A3%AB%E5%AE%89.pdf">点此下载</a></td>
-</tr>
-<tr>
-<td align="center">近世代数——丘维声</td>
-<td align="center"><a href="https://wangtuo.co/abstract/%E4%B8%98%E7%BB%B4%E5%A3%B0.pdf">点此下载</a></td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>习题集</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th align="center">电子书</th>
-<th align="center">下载</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">近世代数300题</td>
-<td align="center"><a href="https://wangtuo.co/abstract/300.pdf">点此下载</a></td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>英文参考书</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th align="center">电子书</th>
-<th align="center">下载</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">Algebra 1  by Ramji</td>
-<td align="center"><a href="https://wangtuo.co/algebra/algebra1_Ramji.pdf">点此下载</a></td>
-</tr>
-</tbody></table>
 ]]></content>
   </entry>
   <entry>
