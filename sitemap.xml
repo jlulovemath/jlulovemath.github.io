@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jlulovemath.wangtuo.co/2022/04/30/Exam/</loc>
+    
+    <lastmod>2022-07-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://jlulovemath.wangtuo.co/2022/04/03/LaTeX/</loc>
     
     <lastmod>2022-06-24</lastmod>
@@ -182,15 +191,6 @@
   </url>
   
   <url>
-    <loc>http://jlulovemath.wangtuo.co/2022/04/30/Exam/</loc>
-    
-    <lastmod>2022-06-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://jlulovemath.wangtuo.co/2022/06/05/differential/</loc>
     
     <lastmod>2022-06-09</lastmod>
@@ -256,7 +256,7 @@
 
   <url>
     <loc>http://jlulovemath.wangtuo.co/</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-07-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -266,7 +266,7 @@
   
   <url>
     <loc>http://jlulovemath.wangtuo.co/categories/Exam/</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

@@ -1,3 +1,4 @@
+http://jlulovemath.wangtuo.co/2022/04/30/Exam/
 http://jlulovemath.wangtuo.co/2022/04/03/LaTeX/
 http://jlulovemath.wangtuo.co/2022/04/07/Complex%20Analysis/
 http://jlulovemath.wangtuo.co/2022/05/05/welcome/
@@ -18,7 +19,6 @@ http://jlulovemath.wangtuo.co/2022/05/01/huawei/
 http://jlulovemath.wangtuo.co/2022/06/05/harmonic/
 http://jlulovemath.wangtuo.co/2022/06/05/functional/
 http://jlulovemath.wangtuo.co/2022/06/05/Fourier/
-http://jlulovemath.wangtuo.co/2022/04/30/Exam/
 http://jlulovemath.wangtuo.co/2022/06/05/differential/
 http://jlulovemath.wangtuo.co/2022/05/02/computing/
 http://jlulovemath.wangtuo.co/2022/04/10/analysis/
