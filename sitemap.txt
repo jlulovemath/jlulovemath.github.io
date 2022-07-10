@@ -1,6 +1,10 @@
+http://jlulovemath.wangtuo.co/2022/04/07/Complex%20Analysis/
+http://jlulovemath.wangtuo.co/2022/04/04/algebra/
+http://jlulovemath.wangtuo.co/2022/05/01/AI/
+http://jlulovemath.wangtuo.co/2022/04/03/abstract/
+http://jlulovemath.wangtuo.co/2022/04/10/analysis/
 http://jlulovemath.wangtuo.co/2022/04/30/Exam/
 http://jlulovemath.wangtuo.co/2022/04/03/LaTeX/
-http://jlulovemath.wangtuo.co/2022/04/07/Complex%20Analysis/
 http://jlulovemath.wangtuo.co/2022/05/05/welcome/
 http://jlulovemath.wangtuo.co/2022/06/07/warning/
 http://jlulovemath.wangtuo.co/2022/04/05/topology/
@@ -21,10 +25,6 @@ http://jlulovemath.wangtuo.co/2022/06/05/functional/
 http://jlulovemath.wangtuo.co/2022/06/05/Fourier/
 http://jlulovemath.wangtuo.co/2022/06/05/differential/
 http://jlulovemath.wangtuo.co/2022/05/02/computing/
-http://jlulovemath.wangtuo.co/2022/04/10/analysis/
-http://jlulovemath.wangtuo.co/2022/04/04/algebra/
-http://jlulovemath.wangtuo.co/2022/05/01/AI/
-http://jlulovemath.wangtuo.co/2022/04/03/abstract/
 http://jlulovemath.wangtuo.co/about/index.html
 http://jlulovemath.wangtuo.co/
 http://jlulovemath.wangtuo.co/categories/Exam/
